@@ -40,8 +40,12 @@ todo-list-app/
 2. Configuração do Banco de Dados Certifique-se de que o MySQL está rodando. Atualize o arquivo backend/db.js com suas credenciais.
 
 3. Instalar Dependências No diretório backend:
+``` 
+    npm install
+```
 
 4. Acesse o Projeto: O front-end estará disponível em http://localhost:3000
+
 
 ## 📋 Rotas da API
 **Tarefas**
